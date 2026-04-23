@@ -1,0 +1,7 @@
+An .adb file is an Ada Body file, containing 
+the implementation code (subprogram bodies, 
+package bodies) for the Ada programming language
+. It works in conjunction with .ads (Ada Specification) files, 
+which define the interface, while the .adb file 
+holds the actual logic. These are plain text files 
+commonly used with the GNAT compiler.
