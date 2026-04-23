@@ -7,3 +7,8 @@ holds the actual logic. These are plain text files
 commonly used with the GNAT compiler.
 .adb  B like body
 .asd  S like specification
+
+    .adb — for Ada body files (implementation files)
+    .ads — for Ada specification files (interface files)
+
+.ada — sometimes used as a generic extension for Ada source files
