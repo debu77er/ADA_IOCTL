@@ -5,3 +5,5 @@ package bodies) for the Ada programming language
 which define the interface, while the .adb file 
 holds the actual logic. These are plain text files 
 commonly used with the GNAT compiler.
+.adb  B like body
+.asd  S like specification
